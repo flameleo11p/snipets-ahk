@@ -1,0 +1,37 @@
+joy pov
+
+手柄 按键信息 
+
+北通手柄
+XYAB 3,4,1,2
+
+
+POV 十字键
+
+JoyX JoyY 左轴
+JoyU JoyR  右轴
+
+JoyZ LT RT Z100, Z0, 平时是Z50
+
+
+LB RB 5, 6
+
+JoyA := { JoyX:true 
+  , JoyY:true
+  , JoyU:true
+  , JoyR:true }
+
+
+游戏杆
+Joy1至Joy32：操纵杆的按钮。为了帮助确定操纵杆的按钮编号，请使用此测试脚本。请注意，不支持诸如^（控制）和+（移位）之类的热键前缀符号（尽管可以将GetKeyState用作替代符号）。还请注意，如果该窗口旨在检测操纵杆按钮的按下，则始终会“按下”操纵杆按钮。
+
+尽管以下操纵杆控件名称不能用作热键，但它们可以与GetKeyState一起使用：
+JoyX，JoyY和JoyZ：操纵杆的X（水平），Y（垂直）和Z（高度/深度）轴。
+JoyR：操纵杆的方向舵或第4轴。
+JoyU和JoyV：操纵杆的第5和第6轴。
+JoyPOV：视点（帽子）控件。
+JoyName：游戏杆或其驱动程序的名称。
+JoyButtons：操纵杆支持的按钮数量（并不总是准确的）。
+JoyAxes：操纵杆支持的轴数。
+JoyInfo：提供由零个或多个以下字母组成的字符串，以指示操纵杆的功能：Z（具有Z轴），R（具有R轴），U（具有U轴），V（具有V轴），P（具有POV控件），D（POV控件具有有限数量的离散/不同设置），C（POV控件为连续/精细）。字符串示例：ZRUVPD
+  

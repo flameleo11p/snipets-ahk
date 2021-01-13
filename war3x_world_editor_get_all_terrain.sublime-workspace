@@ -1,0 +1,613 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ahk",
+				"ahk_pid"
+			],
+			[
+				"for",
+				"fori\tfor i,v in ipairs()"
+			],
+			[
+				"mo",
+				"moveLeft"
+			],
+			[
+				"mov",
+				"moveBackward"
+			],
+			[
+				"move",
+				"moveForward"
+			],
+			[
+				"ca",
+				"camera"
+			],
+			[
+				"thr",
+				"THREE"
+			],
+			[
+				"MO",
+				"moveRight"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"do",
+				"domElement"
+			],
+			[
+				"ran",
+				"randInt"
+			],
+			[
+				"re",
+				"renderer"
+			],
+			[
+				"sc",
+				"scene"
+			],
+			[
+				"inner",
+				"innerHeigth"
+			],
+			[
+				"SC",
+				"scene"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"fun",
+				"fun\tfunction"
+			],
+			[
+				"con",
+				"console.log"
+			],
+			[
+				"MAR",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n\t\"folders\":\n\t[\n\t\t{\n\t\t\t\"path\": \".\"\n\t\t}\n\t]\n}\n",
+			"file": "war3x_world_editor_get_all_terrain.sublime-project",
+			"file_size": 45,
+			"file_write_time": 132283810920549433,
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"eky",
+				"Nodejs::User Key Bindings"
+			],
+			[
+				"set user",
+				"Nodejs::User File Settings"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sthml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sethmt",
+				"Set Syntax: HTML"
+			],
+			[
+				"forma",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"for",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"xpath",
+				"XPath: Copy exact path to clipboard"
+			],
+			[
+				"key",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"ali",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"alig",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"font",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"set python",
+				"Build With: Python Local - Syntax Check"
+			],
+			[
+				"pth",
+				"Build With: Python Local"
+			],
+			[
+				"f",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"foma",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"ISPACK",
+				"Package Control: Install Package"
+			],
+			[
+				"INS",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 508.0,
+		"history":
+		[
+			"view.settings().get('font_face')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Z/drive_d/work/AutoHotkey"
+	],
+	"file_history":
+	[
+		"/Z/home/me/work/AutoHotkey/test/t2 timer.ahk",
+		"/Z/home/me/work/AutoHotkey/todo",
+		"/G/driver/联想打印机 M7268 Series_Drivers_Win_20180718095347/M7268&M7268W/联想m7450f打印机 readme.txt",
+		"/D/dev/Shadowsocks-4.0.7/pac.txt",
+		"/d/E2160/Pictures/doc/aliyun-ECS-centos.ss",
+		"/D/app/NSudo_6.2/NSudo 6.2.1812.31/Readme.txt",
+		"/D/game/Stellaris/common/defines/00_defines.txt",
+		"/D/temp/Shadowsocks-4.0.7/,",
+		"/D/work/csharp/lua_winapi/WindowsFormsApp1/WindowsFormsApp1/bin/Debug/scripts/trace.lua",
+		"/D/work/csharp/lua_winapi/WindowsFormsApp1/WindowsFormsApp1/bin/Debug/scripts/winapi.dll",
+		"/d/E2160/Pictures/doc/wlua.exe 的作用",
+		"/G/install.ini",
+		"/C/Windows/System32/OpenSSH/sshd_config_default",
+		"/D/work/three.js/1020/main.js",
+		"/D/work/website/three.js/public/work/node_modules/_events@3.0.0@events/events.js",
+		"/D/work/website/three.js/public/my-work/index.html",
+		"/D/work/website/three.js/public/examples/main.css",
+		"/D/work/website/three.js/public/examples/move_camera.js",
+		"/D/work/website/three.js/public/examples/move_camera.html",
+		"/D/work/website/three.js/public/my-demo/move camera.js",
+		"/D/dev/SublimeText3207/Data/Packages/User/node.sublime-build",
+		"/D/work/website/three.js/t1.js",
+		"/D/work/website/three.js/package.json",
+		"/D/work/website/three.js/public/main.js",
+		"/D/work/website/three.js/demo.js",
+		"/D/work/website/three.js/xxx.js",
+		"/D/work/website/three.js/public/main.css",
+		"/D/work/website/three.js/public/index.html",
+		"/D/work/website/three.js/public/pointer-lock.JS",
+		"/D/work/website/three.js/public/misc_controls_pointerlock.html",
+		"/D/work/three.js/three.js-dev/examples/misc_controls_pointerlock.html",
+		"/D/work/website/hollowskin/demo.js",
+		"/D/work/website/three.js/app.js",
+		"/D/work/website/hollowskin/app.js",
+		"/D/work/three.js/three.js-dev/examples/jsm/libs/dat.gui.module.js",
+		"/D/work/three.js/js/randInt.js",
+		"/D/work/three.js/onKeydown wasd move.js",
+		"/D/work/three.js/main.js",
+		"/D/work/three.js/js/OrbitControls.js",
+		"/D/work/three.js/demo1.html",
+		"/D/work/three.js/t1.lua",
+		"/D/E2160/Pictures/doc/各种语言启动 http 服务器.js",
+		"/D/work/three.js/index.html",
+		"/D/work/git/three.js-master/examples/webgl_skinning_simple.html",
+		"/D/work/three.js/main.html",
+		"/D/work/three.js/demo/PlaneBufferGeometry.html",
+		"/D/work/three.js/demo/lib/dat2.gui.module.js",
+		"/D/work/three.js/demo/lib/three.module.js",
+		"/D/work/three.js/demo/dat2.gui.module.js",
+		"/D/work/three.js/demo/dat.gui.module.js",
+		"/D/work/three.js/demo/lib/main.css",
+		"/d/E2160/Pictures/doc/各种语言启动 http 服务器.js",
+		"/D/work/three.js/demo/light.js",
+		"/D/work/git/three.js-master/examples/js/libs/stats.min.js",
+		"/D/app/__bin/asdf.txt",
+		"/D/work/vs2017/cmd-join/cmd-join/bin/Debug/1.txt",
+		"/D/work/vs2017/test_winform_std_output/test_winform_std_output/bin/Debug/1.txt",
+		"/D/work/vs2017/cmd-join/cmd-join/bin/Debug/mod/main22 - Copy.lua",
+		"/D/work/vs2017/cmd-join/cmd-join/bin/Debug/cmd-join--show-.njoin-temp.txt",
+		"/D/work/vs2017/cmd-join/cmd-join/bin/Debug/mod/main.lua",
+		"/D/app/__bin/1.txt",
+		"/D/app/__bin/2.txt",
+		"/D/work/vs2017/cmd-join/cmd-join/bin/Debug/2.txt",
+		"/D/work/vs2017/cmd-join/cmd-join/bin/Debug/3rd/2.txt",
+		"/D/work/vs2017/cmd-join/cmd-join/bin/Debug/3rd/1.txt",
+		"/D/work/test/t2.cs",
+		"/D/work/vs2017/cmd-join/cmd-join/readme.lua",
+		"/D/work/git/7z1510-src/CPP/7zip/UI/FileManager/MenuPage.h",
+		"/D/work/git/7z1510-src/CPP/7zip/UI/FileManager/MenuPage.cpp",
+		"/D/work/git/7z1510-src/CPP/7zip/UI/Explorer/ContextMenu.cpp",
+		"/D/work/git/7z1510-src/CPP/7zip/UI/GUI/CompressDialog.rc",
+		"/D/work/vs2017/__demo/SimpleListenerExample.cs",
+		"/D/work/vs2017/cmd-join/cmd-join/bin/Debug/SetConsoleCtrlHandler.CS",
+		"/D/work/vs2017/__demo/MultiFileWatcher.cs",
+		"/D/work/git/7z1510-src/CPP/7zip/UI/Explorer/ContextMenu.h",
+		"/D/work/git/7z1510-src/CPP/Common/MyWindows.h",
+		"/D/work/git/7z1510-src/CPP/Common/MyString.h",
+		"/D/work/git/7z1510-src/CPP/7zip/UI/Explorer/resource2.rc",
+		"/D/work/vs2017/cmd-join/cmd-join/bin/Debug/cmd-join--Dworkvs2017cmd-joincmd-joinbinDebug3rdshowcmd2-Copy-Copy-.njoin-temp.txt",
+		"/D/work/vs2017/cmd-join/cmd-join/bin/Debug/111.txt",
+		"/D/work/vs2017/cmd-join/cmd-join/bin/Debug/cmd-join--showcmd2-.njoin-temp.txt",
+		"/D/temp/tets.cpp",
+		"/D/work/vs2017/file watcher/file watcher/bin/Debug/New Text Document.txt",
+		"/D/work/vs2017/cmd-join/cmd-join/bin/Debug/tttt.cmd",
+		"/d/E2160/Pictures/doc/c# get exe path",
+		"/D/work/git/NLog-dev/src/NLog/Internal/Files/MultiFileWatcher.cs",
+		"/D/work/vs2017/fileAppend/fileAppend/bin/Debug/FileAppendText.txt",
+		"/D/work/csharp/lua_winapi/WindowsFormsApp1/WindowsFormsApp1/bin/Debug/logs/logfile.txt",
+		"/D/work/git/NLua-master/tests/src/TestTypes/IFoo1.cs",
+		"/D/work/git/NLua-master/tests/src/TestTypes/TestClass.cs",
+		"/D/work/csharp/lua_winapi/lua-winapi/lua-winapi/bin/Debug/scripts/main.lua",
+		"/D/work/git/lua-console-learning-master/LuaConsole/LuaFunctions.cs",
+		"/D/work/git/NLua-master/README.md",
+		"/D/work/git/NLua-master/src/Exceptions/LuaException.cs",
+		"/D/work/git/NLua-master/src/Exceptions/LuaScriptException.cs",
+		"/D/work/git/NLua-master/tests/src/LoadFileTests.cs",
+		"/D/work/git/NLua-NLua-d890c17/CNAME",
+		"/D/work/git/NLua-NLua-d890c17/javascripts/main.js",
+		"/D/work/git/NLua-NLua-d890c17/javascripts/respond.js",
+		"/D/work/git/NLua-master/tests/scripts/test.lua",
+		"/D/work/git/NLua-master/tests/scripts/core/printf.lua",
+		"/D/work/git/NLua-master/tests/scripts/core/sort.lua",
+		"/D/work/vs2017/luaEmbedding/myTemp/t1 main dostring calc.cpp",
+		"/D/work/vs2017/luaEmbedding/myTemp/t2 tetris.cpp",
+		"/D/work/vs2017/luaEmbedding/myTemp/t1 embedding lua.cpp",
+		"/D/work/vs2017/luaEmbedding/luaEmbedding/dostring calc.cpp",
+		"/D/work/vs2017/luaEmbedding/myTemp/t2 main dofile.cpp",
+		"/D/work/vs2017/luaEmbedding/luaEmbedding/func.lua",
+		"/D/work/git/luawinapi-master/src/drvproc.c",
+		"/D/dev/luarocks-3.2.0-win32/install.bat",
+		"/G/git/Proxifier破解教程.txt",
+		"/G/git/New Text Document.txt",
+		"/D/work/git/luawinapi-master/src/gen_structs.c",
+		"/D/work/git/luawinapi-master/gen/functions.def",
+		"/D/work/git/luawinapi-master/gen/struct_h.template",
+		"/D/work/git/luawinapi-master/gen/abstractions_c.template",
+		"/D/work/git/libuiohook-1.1/src/windows/input_helper.c",
+		"/D/dev/Sublime3207/Data/Packages/User/trailing_spaces.sublime-settings",
+		"/D/dev/Sublime3207/Data/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/D/E2160/Documents/AutoHotkey/群星回车输入秘籍.ahk",
+		"/d/E2160/Desktop/New AutoHotkey Script.ahk",
+		"/D/work/nodejs/share-vip/tmp/nodejs 改写 require 加载文件机制 导入 import txt 文本文件",
+		"/D/work/hollow_skin_maker/temp/t1 path.py",
+		"/D/work/hollow_skin_maker/run.cmd",
+		"/D/work/hollow_skin_maker/bin/proc.py",
+		"/D/work/hollow_skin_maker/bin/create.py",
+		"/D/work/hollow_skin_maker/readme.txt",
+		"/D/E2160/Pictures/doc/魔兽世界地名中英文对照"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 148.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "war3x_world_editor_get_all_terrain.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "war3x_world_editor_get_all_terrain.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"three.module.js",
+				"public\\build\\three.module.js"
+			],
+			[
+				"event",
+				"public\\work\\events.js"
+			],
+			[
+				"PointerLockControls",
+				"public\\examples\\js\\controls\\PointerLockControls.js"
+			],
+			[
+				"point",
+				"public\\lasttime\\pointer-lock.html"
+			],
+			[
+				"stats.module.js",
+				"public\\examples\\jsm\\libs\\stats.module.js"
+			],
+			[
+				"webgl_animation_cloth",
+				"public\\examples\\webgl_animation_cloth.html"
+			],
+			[
+				"main.css",
+				"public\\examples\\main.css"
+			],
+			[
+				"PointerLockControls.js",
+				"three.js\\js\\controls\\PointerLockControls.js"
+			],
+			[
+				"stats.min.js",
+				"examples\\js\\libs\\stats.min.js"
+			],
+			[
+				"skinning",
+				"examples\\webgl_skinning_simple.html"
+			],
+			[
+				"MYSTRING",
+				"7z1510-src\\CPP\\Common\\MyString.h"
+			],
+			[
+				"MyWindows",
+				"7z1510-src\\CPP\\Common\\MyWindows.h"
+			],
+			[
+				"LuaTable",
+				"src\\LuaTable.cs"
+			],
+			[
+				"tests .lua",
+				"tests\\scripts\\core\\sort.lua"
+			],
+			[
+				"Tests .lua",
+				"tests\\scripts\\core\\printf.lua"
+			],
+			[
+				"input_hook.c",
+				"src\\darwin\\input_hook.c"
+			],
+			[
+				"shortid",
+				"website\\hollowskin_pub\\node_modules\\shortid\\index.js"
+			],
+			[
+				"usbip_common",
+				"usbip-win-master\\userspace\\lib\\usbip_common.c"
+			],
+			[
+				"usbip_network",
+				"usbip-win-master\\userspace\\lib\\usbip_network.h"
+			],
+			[
+				"avcode",
+				"jsmpeg-vnc-master\\source\\ffmpeg\\include\\libavcodec\\avcodec.h"
+			],
+			[
+				"module",
+				"benchmark\\module\\module-loader.js"
+			],
+			[
+				"moud",
+				"Doc\\library\\modules.rst"
+			],
+			[
+				"moudle",
+				"Lib\\modulefinder.py"
+			],
+			[
+				"import",
+				"Python\\import.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

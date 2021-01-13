@@ -1,0 +1,108 @@
+dad
+daadaadadws
+
+
+
+wine /drive_d/app/AutoHotkey-v1/AutoHotkey.exe /drive_d/app/AutoHotkey-v1/blood-rotn.ahk
+
+
+D:\app\AutoHotkey-v1\AutoHotkey.exe
+
+
+
+-----------------------------------------------
+-- delay next
+-----------------------------------------------
+dada
+
+o 运输部队  部队0 或者
+
+lua-ahk
+发送按键
+检查 当前进程
+播放声音
+注册快捷键
+移动鼠标
+timer
+
+
+
+
+-----------------------------------------------
+-- ok finish
+-----------------------------------------------
+
+z   if WinActive   send casesensitive
+
+
+include file
+seperate a tool.ahk
+m  c move
+Tab map   // N  E or 
+N  talnet // or nation state
+
+-----------------------------------------------
+-- current
+-----------------------------------------------
+
+g  switch attach stand
+
+-----------------------------------------------
+-- todo
+-----------------------------------------------
+
+build 
+
+
+B 延迟2秒  清除 组合 按下状态
+
+其他看见 BF  前招展
+
+BT 防御箭塔平台
+BM 矿场
+BR 研究场
+BF 前哨站 
+
+有问题啊
+B F 和 BR 和原来的快捷键重复
+逻辑上 即使两个快捷同时生效也不行
+除非 重新一个 注册
+检查条件成绩，则BF BR建造，否则 F goto R 返回
+
+how to send key upper works in system without shift 
+bu check CapsLock state
+
+
+
+
+
+key state check tiny keyborad pannel
+
+get window spy fonts
+
+
+rename it
+
+designer  UI
+show GIF in winform
+
+绑定joystick 两个轴到 鼠标移动 和旋转镜头
+然后各个按键 映射到 快捷键上
+
+
+但是有一个问题 
+快捷键：（1）原有游戏快捷键回调被拦击 不处理下来的，比如按F2只是心的映射不触发原有的
+（2）还有绑定发送 F2 如何才能出发自己 设置好的快捷键
+（3）绑定 游戏手柄后 如何和键盘 之前写好的ahk 共存
+
+
+
+明天研究一下 
+抓数据
+网站UI
+   未来是 网站 直接 在线编辑 布局 导出，直接使用
+
+
+
+
+

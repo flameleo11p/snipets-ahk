@@ -1,0 +1,6 @@
+123
+haha 哈哈
+哈哈
+
+
+wine cant show Chinese char
